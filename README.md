@@ -75,9 +75,6 @@ This project is an Eye Mouse Control Application that uses OpenCV, Mediapipe, an
 - **Adjusting Sensitivity**: You can adjust the sensitivity of the eye movement detection by modifying the threshold values in the `process_landmarks` function.
 - **Changing Camera Scale**: The `scale` variable can be adjusted to change the cropping size of the camera input.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
